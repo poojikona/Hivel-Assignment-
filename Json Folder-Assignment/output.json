@@ -1,4 +1,8 @@
 {
-  "input_x": 2,
-  "output_value": 17
+  "testcase1": {
+    "C": 3
+  },
+  "testcase2": {
+    "C": -6290016743746182000
+  }
 }
